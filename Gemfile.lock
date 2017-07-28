@@ -170,7 +170,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  pg
+  pg (~> 0.21.0)
   rails (= 4.2.5)
   rails_12factor (~> 0.0.3)
   sass-rails (~> 5.0)
@@ -185,4 +185,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.14.4
+   1.15.3
