@@ -166,7 +166,7 @@ PLATFORMS
 DEPENDENCIES
   bcrypt (~> 3.1.11)
   bootstrap (~> 4.0.0.alpha6)
-  bundler (~> 1.15, >= 1.15.2)
+  bundler (~> 1.15, >= 1.15.3)
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
@@ -186,4 +186,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.15.2
+   1.15.3
