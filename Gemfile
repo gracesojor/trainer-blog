@@ -9,6 +9,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'turbolinks'
 gem 'jbuilder',     '~> 2.0'
 gem 'sdoc',         '~> 0.4.0', group: :doc
+gem 'bundler', '~> 1.15', '>= 1.15.1'
+
 
 gem 'bootstrap',    '~> 4.0.0.alpha6'
 gem 'jquery-rails'
